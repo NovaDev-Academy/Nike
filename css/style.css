@@ -1,0 +1,39 @@
+* h1,p,h1,ul,li,a {
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    
+}
+ul{
+    list-style: none;
+}
+
+.nikebg{
+    display: flex;
+    background: rgb(236, 230, 230);
+    justify-content: space-between;
+    
+}
+.itens{
+    display: flex;
+}
+.itens a{
+    padding: 10px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.menu_nike ul{
+    display: flex;
+    
+}
+.menu_nike ul a{
+    color: black;
+}
+.menu li{
+    display: flex;
+    padding: 10px;
+}
